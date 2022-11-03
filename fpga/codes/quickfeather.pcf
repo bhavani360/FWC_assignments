@@ -1,0 +1,4 @@
+set_io X 6
+set_io Y 2
+set_io Z 3
+set_io F 62
